@@ -55,7 +55,7 @@
 ## التنصيب علي هيوركا 💜
 من أسهل طرق تشغيل البوت ولكن مدتها 22 يوم فقط 
 
-[![تشغيل](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TAELR/music)
+[![تشغيل](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TAELR/musicc)
 
 
 
